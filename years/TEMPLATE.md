@@ -1,6 +1,13 @@
 # YEAR - One or two word description
 
+Link to Game Specs
+
 Brief description of the game that year.
+
+Java Version: [1.3 - 1.7]
+
+### Gameplay
+In depth description of gameplay, videos of gameplay
 
 ### Winners
 1st foo [(blog post link if found)](www.notarealsite.com)
