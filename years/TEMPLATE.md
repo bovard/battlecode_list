@@ -21,3 +21,7 @@ In depth description of gameplay, videos of gameplay
 ### Source
 battlecode-client (don't link to github.com/battlecode account, they delete it every year! :()
 battlecode-server
+
+
+### Lectures
+List of lectures, links, descriptions
