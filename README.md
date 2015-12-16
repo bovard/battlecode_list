@@ -1,5 +1,5 @@
 # battlecode_list
-An attempt to create a list of every years battlecode competition. Please make a PR if you have anything to add!
+An attempt to create a list of every year's battlecode competition details. Please make a PR if you have anything to add!
 
 ## The List
 (Please click on any year to get more details!)
