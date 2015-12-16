@@ -10,18 +10,23 @@ Java Version: [1.3 - 1.7]
 In depth description of gameplay, videos of gameplay
 
 ### Winners
-1st foo [(blog post link if found)](www.notarealsite.com)
-2nd bar
+* 1st foo [(blog post link if found)](www.notarealsite.com)
+* 2nd bar
 
 
 ### Blog Posts
+* TODO
 
+## Submissions
+* TODO
 
 
 ### Source
-battlecode-client (don't link to github.com/battlecode account, they delete it every year! :()
-battlecode-server
+* battlecode-client (don't link to github.com/battlecode account, they delete it every year! :()
+* battlecode-server
 
 
 ### Lectures
-List of lectures, links, descriptions
+1. List of lectures
+2. links
+
