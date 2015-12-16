@@ -17,7 +17,7 @@ In depth description of gameplay, videos of gameplay
 ### Blog Posts
 * TODO
 
-## Submissions
+### Submissions
 * TODO
 
 
