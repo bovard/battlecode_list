@@ -4,19 +4,19 @@ An attempt to create a list of every years battlecode competition. Please make a
 ## The List
 (Please click on any year to get more details!)
 
-### [2015 - Launchers, Tanks and Commanders](years/2015.md)
+### [2015 - Launchers, Tanks and Commanders](years/2015.md) (done)
 
 
-### [2014 - Cow Herding](years/2014.md)
+### [2014 - Cow Herding](years/2014.md) (not done!)
 
 
-### [2013 - Mines and Nukes](years/2013.md)
+### [2013 - Mines and Nukes](years/2013.md) (done)
 
 
-### [2012 - Archons and Nodes](years/2012.md)
+### [2012 - Archons and Nodes](years/2012.md) (not done!)
 
 
-### [2011 - Components and Chassis](years/2011.md)
+### [2011 - Components and Chassis](years/2011.md) (not done!)
 
 
 ### [2010 - ?](years/2010.md)
