@@ -7,7 +7,7 @@ An attempt to create a list of every year's battlecode competition details. Plea
 ### [2015 - Launchers, Tanks and Commanders](years/2015.md)
 
 
-### [2014 - Cow Herding](years/2014.md) (not done!)
+### [2014 - Cow Herding](years/2014.md) 
 
 
 ### [2013 - Mines and Nukes](years/2013.md)
